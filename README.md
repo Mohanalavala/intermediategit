@@ -8,5 +8,5 @@
 ## Profile links
 - [Chandu Polisetty](https://github.com/Chandupolisetty)
 - [Sumanth Reddy Naidu](https://github.com/sumanthreddy1233)
-- Rohith Reddy
+- [Rohith Reddy] (https://github.com/Avisakula123)
 - [Mohan Alavala](https://github.com/Mohanalavala)
